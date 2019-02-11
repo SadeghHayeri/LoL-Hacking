@@ -2,7 +2,7 @@
 <p align="center">
   <img src="header.jpg" alt="header, hacker" width="500">
 </p>
-This repo contain my public hacking activity! of course *only for educational purposes*
+This repo contains my public hacking activities. of course, only for educational purposes!
 
 
 ## UT CAS
@@ -15,4 +15,4 @@ Phish my close friend for final Network's Security coures' demo. (see UTID-Phshi
 Sample Brute-force attack on snappfoods discounts! (see SnappFood-Discounts)
 
 ## Dounro 
-Download all [Dunro](https://dunro.com) services using Scrapy framework and use GPS data for get discounts!
+Download all [Dunro](https://dunro.com) services using Scrapy framework and use GPS data for get discounts! (see Dunro-Crawler)
