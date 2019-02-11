@@ -3,7 +3,7 @@ Use 'forget password' bugs of utid.ut.ac.ir to hack University of Tehran's centr
 
 ### PoW
 <p align="center">
-  <img src="Pow/BB1.jpg" width="700">
+  <img src="PoW/BB1.jpg" width="700">
 </p>
 
 <p align="center">
