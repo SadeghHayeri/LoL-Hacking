@@ -1,23 +1,23 @@
 # UT Crack
 Use 'forget password' bugs of utid.ut.ac.ir to hack University of Tehran's central authentication.
 
-### POF
+### PoW
 <p align="center">
-  <img src="POF/BB1.jpg" alt="Notable" width="700">
+  <img src="Pow/BB1.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="POF/SS.jpg" alt="Notable" width="700">
+  <img src="PoW/SS.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="POF/BB2.jpg" alt="Notable" width="700">
+  <img src="PoW/BB2.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="POF/BB3.jpg" alt="Notable" width="700">
+  <img src="PoW/BB3.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="POF/BB4.jpg" alt="Notable" width="700">
+  <img src="PoW/BB4.jpg" width="700">
 </p>
